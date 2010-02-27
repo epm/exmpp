@@ -1,0 +1,2 @@
+[{deps, []},
+ {prebuild_command, "autoreconf -vif; ./configure"}].
